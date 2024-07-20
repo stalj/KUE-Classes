@@ -1,4 +1,4 @@
-# FREQUENTLY ASKED QUESTION
+# FREQUENTLY ASKED QUESTIONS
 
 1. I took part in a test but got a low score. Can I take part in the test again to improve my score?
    
