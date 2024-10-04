@@ -1,4 +1,4 @@
-[Frequently Asked Question](/faq/)
+[Frequently Asked Question](faq/)
 
 
 # FREQUENTLY ASKED QUESTIONS
