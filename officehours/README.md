@@ -1,3 +1,5 @@
 # OFFICE HOURS
 
-details ...
+First, contact me using Microsoft Teams chat. I usually reply to posts within 1-2 business days, and a maximum of 3 business days. If we can't solve your problem on chat, we will arrange a remote, face-to-face meeting. Remote meetings take place on Wednesdays at 1:30 p.m. If we agree on our remote meeting, I will call you on Microsoft Teams on Wednesday at 1:30 p.m. or a little later if I have more meetings with students that day. Remember to set up your microphone and webcam in Microsoft Teams in advance.
+
+W pierwszej kolejności skontaktuj się ze mną korzystając z chat Microsoft Teams. Odpowiadam na posty zwykle w ciągu 1-2 dni roboczych, a maksimum 3 dni robocze. Jeśli nie rozwiążemy twojego problemu na czacie, umówimy się na spotkanie zdalne, face to face. Spotkania zdalne odbywają się w środy o godzinie 13:30. Jeśli uzgodnimy nasze spotkanie zdalne, zadzwonię do Ciebie w Microsoft Teams w środę o godzine 13:30 lub odrobinę później, gdy będę miał więcej spotkań w tym dniu ze studentami. Pamietaj, aby wcześniej skonfigurować swój mikrofon i kamerkę internetową w Microsoft Teams.
