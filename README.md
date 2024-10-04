@@ -1,2 +1,3 @@
 [Frequently Asked Question](faq/)
-[Office Hours] (officehours/)   
+
+[Office Hours](officehours/)   
