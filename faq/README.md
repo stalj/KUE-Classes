@@ -4,6 +4,8 @@
 
 [I am already familiar with the subject of the classes. Do I need to participate in regular classes?](#i-am-already-familiar-with-the-subject-of-the-classes-do-i-need-to-participate-in-regular-classes)
 
+[I need to get more information about my classes and my participation. How can I do this?](#i-need-to-get-more-information-about-my-classes-and-my-participation-how-can-i-do-this)
+
 [I was absent from regular classes. Where can I send my sick leave?](#i-was-absent-from-regular-classes-where-can-i-send-my-sick-leave)
 
 [I would like to retake the course. What do I need to do?](#i-would-like-to-retake-the-course-what-do-i-need-to-do)
@@ -38,9 +40,16 @@
 
 [Unfortunately, I failed the course. What should I do?](#unfortunately-i-failed-the-course-what-should-i-do)
 
+---
+
 ### I am already familiar with the subject of the classes. Do I need to participate in regular classes?
 
 It only depends on you. You will not receive a lower final grade for your absences. However, please take into account that students' attendance may be checked during regular classes. You can then receive bonus points for high attendance at classes.
+
+### I need to get more information about my classes and my participation. How can I do this?
+
+Detailed information about my office hours, their format and dates, is available on my e-card. Generally, start by sending me a post on the Microsoft Teams platform. I can assure you that 99% of problems can be solved by efficient communication on the chat. I try to respond quickly to posts sent by students. If necessary, we will set up a face-to-face meeting, which will take place remotely. I will then call you using Microsoft Teams. The dates of remote meetings are given on my e-card. Remember to configure your webcam and microphone in advance.
+
 
 ### I have my own laptop. Can I use it during regular classes?
 
@@ -128,4 +137,4 @@ I am not an expert in computer hardware, but I can share with you my many years 
     * disk capacity: 256GB will usually be sufficient. If you regularly record video on your smartphone, consider a larger disk. Remember that for a few zlotys a month you can also store data using disks available on the Internet. This is a very convenient solution.
     * communication protocols: if your laptop supports the Thunderbolt protocol and Power Delivery for battery charging, you will be able to connect it with one cable to the docking station and work comfortably using a large, external monitor and a large, comfortable keyboard (as if you were using a desktop computer).
 
-4. Small budget (PLN 1,000 to 2,000): don't worry. Check out the offer of 2-3 year old used, post-lease laptops. There are many stores with used computers, both stationary (at least a few in Krakow) and online, where you can buy a used, solid business laptop for a fraction of its original price. Usually 1000-2000 PLN is enough to buy a good laptop. What's more, stores usually give a one-year warranty for a purchased used laptop. This is, in my opinion, a much better solution than buying a new, but the cheapest laptop.
+4. I have small budget (PLN 1,000 to 2,000): don't worry. Check out the offer of 2-3 year old used, post-lease laptops. There are many stores with used computers, both stationary (at least a few in Krakow) and online, where you can buy a used, solid business laptop for a fraction of its original price. Usually 1000-2000 PLN is enough to buy a good laptop. What's more, stores usually give a one-year warranty for a purchased used laptop. This is, in my opinion, a much better solution than buying a new, but the cheapest laptop.
