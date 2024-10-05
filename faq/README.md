@@ -6,7 +6,9 @@
 
 [I was absent from regular classes. Where can I send my sick leave?](#i-was-absent-from-regular-classes-where-can-i-send-my-sick-leave)
 
-[I repeat the course. Do I need to take part in regular classes?](#i-repeat-the-course-do-i-need-to-take-part-in-regular-classes)
+[I would like to retake the course. What do I need to do?](#i-would-like-to-retake-the-course-what-do-i-need-to-do)
+
+[I retake the course. Do I need to take part in regular classes?](#i-retake-the-course-do-i-need-to-take-part-in-regular-classes)
 
 [I have my own laptop. Can I use it during regular classes?](#i-have-my-own-laptop-can-i-use-it-during-regular-classes)
 
@@ -38,7 +40,7 @@
 
 ### I am already familiar with the subject of the classes. Do I need to participate in regular classes?
 
-It only depends on you. You will not receive a lower final grade for your absences. However, please take into account that students' attendance may be checked during regular classes. You can then receive bonus points for high attendance at classes. Detailed information can be found in the course syllabus.
+It only depends on you. You will not receive a lower final grade for your absences. However, please take into account that students' attendance may be checked during regular classes. You can then receive bonus points for high attendance at classes.
 
 ### I have my own laptop. Can I use it during regular classes?
 
@@ -48,9 +50,15 @@ Of course.
 
 If it was a regular activity, no problem. No sick leave is required. So please do not send it anywhere. It is only necessary to submit a sick leave if you were absent during tests.
 
-### I repeat the course. Do I need to take part in regular classes?
+### I would like to retake the course. What do I need to do?
 
-You definitely need to take part in tests to pass the course. As for attendance at regular classes, it is up to you. Once you are familiar with the class material, you do not need to attend regular classes. Please note, however, that sometimes you can receive bonus points for attending such classes. Details can be found in the course syllabus.
+I invite you to my classes. However, please let me know in advance which group of students you would like to join. I will check the current group sizes and let you know if it is possible.
+
+**Important**: If the name of the course or the number of hours of classes has changed, contact the Student Service Center as soon as possible for further information. You will most likely need to obtain written consent to repeat the course.
+
+### I retake the course. Do I need to take part in regular classes?
+
+You definitely need to take part in tests to pass the course. As for attendance at regular classes, it is up to you. Once you are familiar with the class material, you do not need to attend regular classes. Please note, however, that sometimes you can receive bonus points for attending such classes.
 
 ### I have my own laptop. Can I use it during tests?
 
