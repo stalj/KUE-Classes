@@ -1,4 +1,3 @@
 [Frequently Asked Question](faq/)
 
-![Video](faq/test2.mp4)
-
+[Video](faq/test2.mp4)
