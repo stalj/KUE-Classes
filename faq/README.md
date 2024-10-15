@@ -57,7 +57,7 @@ Of course.
 
 ### I was absent from regular classes. Where can I send my sick leave?
 
-If it was a regular activity, no problem. No sick leave is required. So please do not send it anywhere. It is only necessary to submit a sick leave if you were absent during tests.
+If it was a regular activity, no problem. No sick leave is required. So please **do NOT send it** to me!!. It is only necessary to submit a sick leave if you were absent during tests.
 
 ### I would like to retake the course. What do I need to do?
 
