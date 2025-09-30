@@ -48,7 +48,7 @@ It only depends on you. You will not receive a lower final grade for your absenc
 
 ### I need to get more information about my classes and my participation. How can I do this?
 
-Detailed information about my office hours, their format and dates, is available on my e-card. Generally, start by sending me a post on the Microsoft Teams platform. I can assure you that 99% of problems can be solved by efficient communication on the chat. I try to respond quickly to posts sent by students. If necessary, we will set up a face-to-face meeting, which will take place remotely. I will then call you using Microsoft Teams. The dates of remote meetings are given on my e-card. Remember to configure your webcam and microphone in advance.
+Detailed information about my office hours, their format and dates, is available on my e-card. Generally, start by sending me a post on the Microsoft Teams. I can assure you that 99% of students' issues can be solved by efficient communication on the chat. I try to respond quickly to posts sent by students.
 
 
 ### I have my own laptop. Can I use it during regular classes?
